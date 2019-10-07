@@ -381,6 +381,7 @@ input::placeholder {
 	justify-content: center;
 	align-items: start;
 	margin-top: 50px;
+	margin-bottom: 30px;
 	flex-direction: row;
 	flex-wrap: wrap;
 }

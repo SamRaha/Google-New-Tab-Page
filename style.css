@@ -83,6 +83,7 @@ body {
 	position: absolute;
 	margin-top: 61px;
 	width: 100%;
+	background: transparent;
 }
 
 /* STICKY THEME */
